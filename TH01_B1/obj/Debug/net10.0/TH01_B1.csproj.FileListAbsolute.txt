@@ -1,0 +1,14 @@
+C:\Users\pc\OneDrive\Tài liệu\CSharp\TH01_B1\TH01_B1\bin\Debug\net10.0\TH01_B1.exe
+C:\Users\pc\OneDrive\Tài liệu\CSharp\TH01_B1\TH01_B1\bin\Debug\net10.0\TH01_B1.deps.json
+C:\Users\pc\OneDrive\Tài liệu\CSharp\TH01_B1\TH01_B1\bin\Debug\net10.0\TH01_B1.runtimeconfig.json
+C:\Users\pc\OneDrive\Tài liệu\CSharp\TH01_B1\TH01_B1\bin\Debug\net10.0\TH01_B1.dll
+C:\Users\pc\OneDrive\Tài liệu\CSharp\TH01_B1\TH01_B1\bin\Debug\net10.0\TH01_B1.pdb
+C:\Users\pc\OneDrive\Tài liệu\CSharp\TH01_B1\TH01_B1\obj\Debug\net10.0\TH01_B1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Tài liệu\CSharp\TH01_B1\TH01_B1\obj\Debug\net10.0\TH01_B1.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Tài liệu\CSharp\TH01_B1\TH01_B1\obj\Debug\net10.0\TH01_B1.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Tài liệu\CSharp\TH01_B1\TH01_B1\obj\Debug\net10.0\TH01_B1.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Tài liệu\CSharp\TH01_B1\TH01_B1\obj\Debug\net10.0\TH01_B1.dll
+C:\Users\pc\OneDrive\Tài liệu\CSharp\TH01_B1\TH01_B1\obj\Debug\net10.0\refint\TH01_B1.dll
+C:\Users\pc\OneDrive\Tài liệu\CSharp\TH01_B1\TH01_B1\obj\Debug\net10.0\TH01_B1.pdb
+C:\Users\pc\OneDrive\Tài liệu\CSharp\TH01_B1\TH01_B1\obj\Debug\net10.0\TH01_B1.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Tài liệu\CSharp\TH01_B1\TH01_B1\obj\Debug\net10.0\ref\TH01_B1.dll
