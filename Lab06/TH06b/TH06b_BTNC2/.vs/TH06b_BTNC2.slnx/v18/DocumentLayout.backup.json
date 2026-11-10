@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\C#\\BT6\\TH06b\\TH06b_BTNC2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9DA606-0268-8D9D-94D6-D160FED255A1}|TH06b_BTNC2\\TH06b_BTNC2.csproj|c:\\users\\pc\\onedrive\\t\u00E0i li\u1EC7u\\hk1-26-27\\c#\\bt6\\th06b\\th06b_btnc2\\th06b_btnc2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9DA606-0268-8D9D-94D6-D160FED255A1}|TH06b_BTNC2\\TH06b_BTNC2.csproj|solutionrelative:th06b_btnc2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E1DBDD-6FAB-44BA-B65B-9ED7349BC513}|TH06b_BTNC2\\TH06b_BTNC2.csproj|C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\C#\\BT6\\TH06b\\TH06b_BTNC2\\th06b_btnc2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97E1DBDD-6FAB-44BA-B65B-9ED7349BC513}|TH06b_BTNC2\\TH06b_BTNC2.csproj|solutionrelative:th06b_btnc2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\C#\\BT6\\TH06b\\TH06b_BTNC2\\TH06b_BTNC2\\Form1.cs",
+              "RelativeDocumentMoniker": "TH06b_BTNC2\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\C#\\BT6\\TH06b\\TH06b_BTNC2\\TH06b_BTNC2\\Form1.cs",
+              "RelativeToolTip": "TH06b_BTNC2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T05:40:47.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\C#\\BT6\\TH06b\\TH06b_BTNC2\\TH06b_BTNC2\\Form1.cs",
+              "RelativeDocumentMoniker": "TH06b_BTNC2\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\C#\\BT6\\TH06b\\TH06b_BTNC2\\TH06b_BTNC2\\Form1.cs [Design]",
+              "RelativeToolTip": "TH06b_BTNC2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T05:31:05.902Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

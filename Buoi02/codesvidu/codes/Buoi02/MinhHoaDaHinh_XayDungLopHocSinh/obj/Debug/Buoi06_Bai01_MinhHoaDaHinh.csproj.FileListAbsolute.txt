@@ -1,0 +1,6 @@
+E:\DNTAI\Teaching\1602_LTWIN_TH\201602_LTWin_TH (SV)\01. Minh hoa\Buoi06_Bai01_MinhHoaDaHinh\bin\Debug\Buoi06_Bai01_MinhHoaDaHinh.exe.config
+E:\DNTAI\Teaching\1602_LTWIN_TH\201602_LTWin_TH (SV)\01. Minh hoa\Buoi06_Bai01_MinhHoaDaHinh\bin\Debug\Buoi06_Bai01_MinhHoaDaHinh.exe
+E:\DNTAI\Teaching\1602_LTWIN_TH\201602_LTWin_TH (SV)\01. Minh hoa\Buoi06_Bai01_MinhHoaDaHinh\bin\Debug\Buoi06_Bai01_MinhHoaDaHinh.pdb
+E:\DNTAI\Teaching\1602_LTWIN_TH\201602_LTWin_TH (SV)\01. Minh hoa\Buoi06_Bai01_MinhHoaDaHinh\obj\Debug\Buoi06_Bai01_MinhHoaDaHinh.csprojResolveAssemblyReference.cache
+E:\DNTAI\Teaching\1602_LTWIN_TH\201602_LTWin_TH (SV)\01. Minh hoa\Buoi06_Bai01_MinhHoaDaHinh\obj\Debug\Buoi06_Bai01_MinhHoaDaHinh.exe
+E:\DNTAI\Teaching\1602_LTWIN_TH\201602_LTWin_TH (SV)\01. Minh hoa\Buoi06_Bai01_MinhHoaDaHinh\obj\Debug\Buoi06_Bai01_MinhHoaDaHinh.pdb

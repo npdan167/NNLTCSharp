@@ -1,0 +1,10 @@
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_TinhToanApp\obj\Debug\MinhHoaDaHinh_ConLib_TinhToanApp.csproj.AssemblyReference.cache
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_TinhToanApp\obj\Debug\MinhHoaDaHinh_ConLib_TinhToanApp.csproj.CoreCompileInputs.cache
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_TinhToanApp\bin\Debug\MinhHoaDaHinh_ConLib_TinhToanApp.exe.config
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_TinhToanApp\bin\Debug\MinhHoaDaHinh_ConLib_TinhToanApp.exe
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_TinhToanApp\bin\Debug\MinhHoaDaHinh_ConLib_TinhToanApp.pdb
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_TinhToanApp\bin\Debug\MinhHoaDaHinh_ConLib_ConsoleMenuLib.dll
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_TinhToanApp\bin\Debug\MinhHoaDaHinh_ConLib_ConsoleMenuLib.pdb
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_TinhToanApp\obj\Debug\MinhHoaD.F44D5FF9.Up2Date
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_TinhToanApp\obj\Debug\MinhHoaDaHinh_ConLib_TinhToanApp.exe
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_TinhToanApp\obj\Debug\MinhHoaDaHinh_ConLib_TinhToanApp.pdb

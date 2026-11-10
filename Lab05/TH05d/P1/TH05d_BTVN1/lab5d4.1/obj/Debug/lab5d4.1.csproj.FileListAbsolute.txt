@@ -1,0 +1,20 @@
+C:\Users\Anh\Documents\CODE\C#\lab5d4.1\lab5d4.1\bin\Debug\lab5d4.1.exe.config
+C:\Users\Anh\Documents\CODE\C#\lab5d4.1\lab5d4.1\bin\Debug\lab5d4.1.exe
+C:\Users\Anh\Documents\CODE\C#\lab5d4.1\lab5d4.1\bin\Debug\lab5d4.1.pdb
+C:\Users\Anh\Documents\CODE\C#\lab5d4.1\lab5d4.1\obj\Debug\lab5d4.1.csproj.AssemblyReference.cache
+C:\Users\Anh\Documents\CODE\C#\lab5d4.1\lab5d4.1\obj\Debug\lab5d4._1.frmDongHo.resources
+C:\Users\Anh\Documents\CODE\C#\lab5d4.1\lab5d4.1\obj\Debug\lab5d4._1.Properties.Resources.resources
+C:\Users\Anh\Documents\CODE\C#\lab5d4.1\lab5d4.1\obj\Debug\lab5d4.1.csproj.GenerateResource.cache
+C:\Users\Anh\Documents\CODE\C#\lab5d4.1\lab5d4.1\obj\Debug\lab5d4.1.csproj.CoreCompileInputs.cache
+C:\Users\Anh\Documents\CODE\C#\lab5d4.1\lab5d4.1\obj\Debug\lab5d4.1.exe
+C:\Users\Anh\Documents\CODE\C#\lab5d4.1\lab5d4.1\obj\Debug\lab5d4.1.pdb
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\Lab05_WinFormADV_NguyenPhuongDan_3123411063\TH05d\P1\TH05d_BTVN1\lab5d4.1\bin\Debug\lab5d4.1.exe.config
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\Lab05_WinFormADV_NguyenPhuongDan_3123411063\TH05d\P1\TH05d_BTVN1\lab5d4.1\bin\Debug\lab5d4.1.exe
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\Lab05_WinFormADV_NguyenPhuongDan_3123411063\TH05d\P1\TH05d_BTVN1\lab5d4.1\bin\Debug\lab5d4.1.pdb
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\Lab05_WinFormADV_NguyenPhuongDan_3123411063\TH05d\P1\TH05d_BTVN1\lab5d4.1\obj\Debug\lab5d4.1.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\Lab05_WinFormADV_NguyenPhuongDan_3123411063\TH05d\P1\TH05d_BTVN1\lab5d4.1\obj\Debug\lab5d4._1.frmDongHo.resources
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\Lab05_WinFormADV_NguyenPhuongDan_3123411063\TH05d\P1\TH05d_BTVN1\lab5d4.1\obj\Debug\lab5d4._1.Properties.Resources.resources
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\Lab05_WinFormADV_NguyenPhuongDan_3123411063\TH05d\P1\TH05d_BTVN1\lab5d4.1\obj\Debug\lab5d4.1.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\Lab05_WinFormADV_NguyenPhuongDan_3123411063\TH05d\P1\TH05d_BTVN1\lab5d4.1\obj\Debug\lab5d4.1.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\Lab05_WinFormADV_NguyenPhuongDan_3123411063\TH05d\P1\TH05d_BTVN1\lab5d4.1\obj\Debug\lab5d4.1.exe
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\Lab05_WinFormADV_NguyenPhuongDan_3123411063\TH05d\P1\TH05d_BTVN1\lab5d4.1\obj\Debug\lab5d4.1.pdb

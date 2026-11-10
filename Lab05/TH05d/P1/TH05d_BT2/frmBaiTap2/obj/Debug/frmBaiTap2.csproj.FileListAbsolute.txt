@@ -1,0 +1,11 @@
+C:\Users\Anh\Documents\CODE\C#\frmBaiTap2\frmBaiTap2\obj\Debug\frmBaiTap2.csproj.AssemblyReference.cache
+C:\Users\Anh\Documents\CODE\C#\frmBaiTap2\frmBaiTap2\obj\Debug\lab5.frmBaiTap2.resources
+C:\Users\Anh\Documents\CODE\C#\frmBaiTap2\frmBaiTap2\obj\Debug\frmBaiTap2.Properties.Resources.resources
+C:\Users\Anh\Documents\CODE\C#\frmBaiTap2\frmBaiTap2\obj\Debug\frmBaiTap2.csproj.GenerateResource.cache
+C:\Users\Anh\Documents\CODE\C#\frmBaiTap2\frmBaiTap2\obj\Debug\frmBaiTap2.csproj.CoreCompileInputs.cache
+C:\Users\Anh\Documents\CODE\C#\frmBaiTap2\frmBaiTap2\bin\Debug\frmBaiTap2.exe.config
+C:\Users\Anh\Documents\CODE\C#\frmBaiTap2\frmBaiTap2\bin\Debug\frmBaiTap2.exe
+C:\Users\Anh\Documents\CODE\C#\frmBaiTap2\frmBaiTap2\bin\Debug\frmBaiTap2.pdb
+C:\Users\Anh\Documents\CODE\C#\frmBaiTap2\frmBaiTap2\obj\Debug\frmBaiTap2.exe
+C:\Users\Anh\Documents\CODE\C#\frmBaiTap2\frmBaiTap2\obj\Debug\frmBaiTap2.pdb
+C:\Users\Anh\Documents\CODE\C#\frmBaiTap2\frmBaiTap2\obj\Debug\frmBaiTap2.exe.config

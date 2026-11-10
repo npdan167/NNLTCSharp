@@ -1,0 +1,12 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        string name;
+        Console.Write("Nhap ho ten cua ban: ");
+        name = Console.ReadLine();
+        Console.WriteLine($"Chao ban {name} !");
+    }
+}

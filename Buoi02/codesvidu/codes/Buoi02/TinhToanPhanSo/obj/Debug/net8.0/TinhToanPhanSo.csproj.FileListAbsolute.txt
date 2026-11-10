@@ -1,0 +1,14 @@
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\TinhToanPhanSo\bin\Debug\net8.0\TinhToanPhanSo.exe
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\TinhToanPhanSo\bin\Debug\net8.0\TinhToanPhanSo.deps.json
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\TinhToanPhanSo\bin\Debug\net8.0\TinhToanPhanSo.runtimeconfig.json
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\TinhToanPhanSo\bin\Debug\net8.0\TinhToanPhanSo.dll
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\TinhToanPhanSo\bin\Debug\net8.0\TinhToanPhanSo.pdb
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\TinhToanPhanSo\obj\Debug\net8.0\TinhToanPhanSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\TinhToanPhanSo\obj\Debug\net8.0\TinhToanPhanSo.AssemblyInfoInputs.cache
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\TinhToanPhanSo\obj\Debug\net8.0\TinhToanPhanSo.AssemblyInfo.cs
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\TinhToanPhanSo\obj\Debug\net8.0\TinhToanPhanSo.csproj.CoreCompileInputs.cache
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\TinhToanPhanSo\obj\Debug\net8.0\TinhToanPhanSo.dll
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\TinhToanPhanSo\obj\Debug\net8.0\refint\TinhToanPhanSo.dll
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\TinhToanPhanSo\obj\Debug\net8.0\TinhToanPhanSo.pdb
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\TinhToanPhanSo\obj\Debug\net8.0\TinhToanPhanSo.genruntimeconfig.cache
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\TinhToanPhanSo\obj\Debug\net8.0\ref\TinhToanPhanSo.dll

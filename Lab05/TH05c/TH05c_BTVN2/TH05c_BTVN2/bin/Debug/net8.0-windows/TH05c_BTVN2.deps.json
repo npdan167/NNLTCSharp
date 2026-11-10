@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TH05c_BTVN2/1.0.0": {
+        "runtime": {
+          "TH05c_BTVN2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TH05c_BTVN2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

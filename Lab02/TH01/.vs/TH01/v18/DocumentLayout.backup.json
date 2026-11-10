@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TH01\\Bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TH01\\Bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TH01\\Bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TH01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TH01\\Bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TH01\\Bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TH01\\Bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TH01\\Bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai6.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai6.cs",
+              "RelativeDocumentMoniker": "TH01\\Bai6.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai6.cs",
+              "RelativeToolTip": "TH01\\Bai6.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T08:10:14.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai9.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai9.cs",
+              "RelativeDocumentMoniker": "TH01\\Bai9.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai9.cs",
+              "RelativeToolTip": "TH01\\Bai9.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T07:11:02.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai4.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai4.cs",
+              "RelativeDocumentMoniker": "TH01\\Bai4.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai4.cs",
+              "RelativeToolTip": "TH01\\Bai4.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T06:55:47.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bai3.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai3.cs",
+              "RelativeDocumentMoniker": "TH01\\Bai3.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai3.cs",
+              "RelativeToolTip": "TH01\\Bai3.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T06:54:57.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai7.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai7.cs",
+              "RelativeDocumentMoniker": "TH01\\Bai7.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai7.cs",
+              "RelativeToolTip": "TH01\\Bai7.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T02:46:45.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Program.cs",
+              "RelativeDocumentMoniker": "TH01\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Program.cs",
+              "RelativeToolTip": "TH01\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T02:40:23.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bai2.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai2.cs",
+              "RelativeDocumentMoniker": "TH01\\Bai2.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai2.cs",
+              "RelativeToolTip": "TH01\\Bai2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T02:40:19.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai8.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai8.cs",
+              "RelativeDocumentMoniker": "TH01\\Bai8.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\T\u00E0i li\u1EC7u\\HK1-26-27\\CSharp\\NNLTCSharp\\TH01\\TH01\\Bai8.cs",
+              "RelativeToolTip": "TH01\\Bai8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T02:45:53.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

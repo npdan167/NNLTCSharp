@@ -1,0 +1,4 @@
+E:\DNTAI\Teaching\1602_LTWIN_TH\201602_LTWin_TH (SV)\01. Minh hoa\Buoi06_Bai02_ConsoleMenuLib\bin\Debug\Buoi06_Bai02_ConsoleMenuLib.dll
+E:\DNTAI\Teaching\1602_LTWIN_TH\201602_LTWin_TH (SV)\01. Minh hoa\Buoi06_Bai02_ConsoleMenuLib\bin\Debug\Buoi06_Bai02_ConsoleMenuLib.pdb
+E:\DNTAI\Teaching\1602_LTWIN_TH\201602_LTWin_TH (SV)\01. Minh hoa\Buoi06_Bai02_ConsoleMenuLib\obj\Debug\Buoi06_Bai02_ConsoleMenuLib.dll
+E:\DNTAI\Teaching\1602_LTWIN_TH\201602_LTWin_TH (SV)\01. Minh hoa\Buoi06_Bai02_ConsoleMenuLib\obj\Debug\Buoi06_Bai02_ConsoleMenuLib.pdb

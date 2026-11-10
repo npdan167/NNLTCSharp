@@ -1,0 +1,17 @@
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\bin\Debug\net8.0-windows\TH05c_Bai2.exe
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\bin\Debug\net8.0-windows\TH05c_Bai2.deps.json
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\bin\Debug\net8.0-windows\TH05c_Bai2.runtimeconfig.json
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\bin\Debug\net8.0-windows\TH05c_Bai2.dll
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\bin\Debug\net8.0-windows\TH05c_Bai2.pdb
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\obj\Debug\net8.0-windows\TH05c_Bai2.Cbo_Dantoc.resources
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\obj\Debug\net8.0-windows\TH05c_Bai2.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\obj\Debug\net8.0-windows\TH05c_Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\obj\Debug\net8.0-windows\TH05c_Bai2.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\obj\Debug\net8.0-windows\TH05c_Bai2.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\obj\Debug\net8.0-windows\TH05c_Bai2.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\obj\Debug\net8.0-windows\TH05c_Bai2.dll
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\obj\Debug\net8.0-windows\refint\TH05c_Bai2.dll
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\obj\Debug\net8.0-windows\TH05c_Bai2.pdb
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\obj\Debug\net8.0-windows\TH05c_Bai2.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\obj\Debug\net8.0-windows\ref\TH05c_Bai2.dll
+C:\Users\pc\OneDrive\Tài liệu\HK1-26-27\C#\TH05\TH05c_Bai2\TH05c_Bai2\obj\Debug\net8.0-windows\TH05c_Bai2.csproj.Up2Date

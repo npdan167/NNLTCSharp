@@ -1,0 +1,11 @@
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_SortLib\bin\Debug\net8.0\MinhHoaDaHinh_SortLib.deps.json
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_SortLib\bin\Debug\net8.0\MinhHoaDaHinh_SortLib.dll
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_SortLib\bin\Debug\net8.0\MinhHoaDaHinh_SortLib.pdb
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_SortLib\obj\Debug\net8.0\MinhHoaDaHinh_SortLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_SortLib\obj\Debug\net8.0\MinhHoaDaHinh_SortLib.AssemblyInfoInputs.cache
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_SortLib\obj\Debug\net8.0\MinhHoaDaHinh_SortLib.AssemblyInfo.cs
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_SortLib\obj\Debug\net8.0\MinhHoaDaHinh_SortLib.csproj.CoreCompileInputs.cache
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_SortLib\obj\Debug\net8.0\MinhHoaDaHinh_SortLib.dll
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_SortLib\obj\Debug\net8.0\refint\MinhHoaDaHinh_SortLib.dll
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_SortLib\obj\Debug\net8.0\MinhHoaDaHinh_SortLib.pdb
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_SortLib\obj\Debug\net8.0\ref\MinhHoaDaHinh_SortLib.dll

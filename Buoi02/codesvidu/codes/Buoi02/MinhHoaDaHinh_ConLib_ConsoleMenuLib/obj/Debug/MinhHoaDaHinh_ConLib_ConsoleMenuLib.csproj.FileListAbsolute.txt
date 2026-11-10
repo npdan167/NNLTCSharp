@@ -1,0 +1,6 @@
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_ConsoleMenuLib\obj\Debug\MinhHoaDaHinh_ConLib_ConsoleMenuLib.csproj.AssemblyReference.cache
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_ConsoleMenuLib\obj\Debug\MinhHoaDaHinh_ConLib_ConsoleMenuLib.csproj.CoreCompileInputs.cache
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_ConsoleMenuLib\bin\Debug\MinhHoaDaHinh_ConLib_ConsoleMenuLib.dll
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_ConsoleMenuLib\bin\Debug\MinhHoaDaHinh_ConLib_ConsoleMenuLib.pdb
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_ConsoleMenuLib\obj\Debug\MinhHoaDaHinh_ConLib_ConsoleMenuLib.dll
+D:\dntai\pc\OneDrives\taiwo\OneDrive\SGU\2024\COURSES\SGU24 - Ngon ngu lap trinh CSharp\codes\dev\NNLTCS\MinhHoaDaHinh_ConLib_ConsoleMenuLib\obj\Debug\MinhHoaDaHinh_ConLib_ConsoleMenuLib.pdb
